@@ -1,4 +1,4 @@
-# SharePoint-Find-and-Replace
+# SharePoint-Find-and-Replace-for-SharePoint-2007
 SharePoint Search and Replace replaces hardcoded strings in SharePoint lists, document libraries, web part properties and text-based documents in SharePoint 2007 server. SharePoint administrators will find this useful during SharePoint upgrade process when user hardcoded URLs result in broken links due to server name changes.
 
 > A commercial version for SharePoint 2010/2013 is now available!
